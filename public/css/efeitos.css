@@ -1,4 +1,4 @@
-.painel-animado.ng-leave-active {
+/* .painel-animado.ng-leave-active {
     -moz-transform: scale(0.1);
     -webkit-transform: scale(0.1);
     -ms-transform: scale(0.1);
@@ -9,7 +9,7 @@
     -ms-transition:transform 0.8s;
     -o-transition:transform 0.8s;
     transition:transform 0.8s;
-  } 
+  }  */
 
   /* .painel-animado {
     -moz-transition:transform 0.8s;
